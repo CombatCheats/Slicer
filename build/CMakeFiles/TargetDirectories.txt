@@ -1,0 +1,3 @@
+/Users/student/Documents/Coding/C/Trashketball/build/CMakeFiles/Slicer.dir
+/Users/student/Documents/Coding/C/Trashketball/build/CMakeFiles/edit_cache.dir
+/Users/student/Documents/Coding/C/Trashketball/build/CMakeFiles/rebuild_cache.dir
